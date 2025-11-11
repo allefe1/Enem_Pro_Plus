@@ -2,6 +2,20 @@
 
 Uma aplicação web completa para estudantes do ENEM, desenvolvida com React e Node.js.
 
+## 🖼️ Demonstração
+
+-Pagina inicial:
+![](home.png)
+
+-Pagina de questões:
+![](questoes.png)
+
+-Pagina de corrigir redações
+![](redacao.png)
+
+-Exemplo Redação Corrigida
+![](redacaoCorrigida.png)
+
 ## 🚀 Funcionalidades
 
 ### 📚 Questões que Mais Caem no ENEM
