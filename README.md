@@ -71,10 +71,10 @@ npm start
 ## 🔧 Configuração
 
 ### Variáveis de Ambiente (Backend)
-Crie um arquivo `.env` na pasta `backend` com:
+Crie um arquivo `.env` na pasta `backend` com a API da perplexity:
 ```
 PORT=5000
-OPENROUTER_API_KEY=sua_chave_api_aqui
+PERPLEXITY_API_KEY=sua_chave_api_da_Perplexity_AQUI
 ```
 
 ## 🌐 Estrutura do Projeto
